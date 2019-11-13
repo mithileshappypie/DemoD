@@ -16,6 +16,7 @@
 		C2E460D0237C326D001E6B09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2E460CE237C326D001E6B09 /* LaunchScreen.storyboard */; };
 		C2E460DB237C326E001E6B09 /* DemoDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E460DA237C326E001E6B09 /* DemoDTests.swift */; };
 		C2E460E6237C326E001E6B09 /* DemoDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E460E5237C326E001E6B09 /* DemoDUITests.swift */; };
+		C2E460F4237C3337001E6B09 /* FirstVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E460F3237C3337001E6B09 /* FirstVc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C2E460E1237C326E001E6B09 /* DemoDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2E460E5237C326E001E6B09 /* DemoDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoDUITests.swift; sourceTree = "<group>"; };
 		C2E460E7237C326E001E6B09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2E460F3237C3337001E6B09 /* FirstVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				C2E460CE237C326D001E6B09 /* LaunchScreen.storyboard */,
 				C2E460D1237C326D001E6B09 /* Info.plist */,
 				C2E460C9237C326B001E6B09 /* DemoD.xcdatamodeld */,
+				C2E460F3237C3337001E6B09 /* FirstVc.swift */,
 			);
 			path = DemoD;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				C2E460C5237C326B001E6B09 /* ViewController.swift in Sources */,
 				C2E460C1237C326B001E6B09 /* AppDelegate.swift in Sources */,
 				C2E460C3237C326B001E6B09 /* SceneDelegate.swift in Sources */,
+				C2E460F4237C3337001E6B09 /* FirstVc.swift in Sources */,
 				C2E460CB237C326B001E6B09 /* DemoD.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
